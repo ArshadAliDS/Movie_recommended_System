@@ -39,13 +39,4 @@ The recommendation system combines several approaches:
 - **Pandas and NumPy**: For data manipulation and numerical computations.
 - **Scikit-Learn**: Used to implement machine learning algorithms.
 - **Surprise Library**: For building and evaluating collaborative filtering models.
-- **Flask**: Web framework for creating the application interface.
-- **HTML/CSS**: For the front-end web application.
-
-## How to Run the Project
-
-Follow these steps to set up and run the project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/movierec.git
+- **Stremelit**: Web framework for creating the application interface.
